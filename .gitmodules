@@ -1,4 +1,12 @@
 [submodule "Learning-LP-NU/cstd-dmytrivar-2122"]
-	path = Learning-LP-NU/cstd-dmytrivar-2122
+    path = Learning-LP-NU/cstd-dmytrivar-2122
     url = https://github.com/ArtemDmytriv/cstd-dmytrivar-2122
     branch = develop
+[submodule "Coding-practice/AlgoTester"]
+    path = Coding-practice/AlgoTester
+    url = https://github.com/ArtemDmytriv/AlgoTester_AD
+    branch = master
+[submodule "Coding-practice/HackerRank"]
+    path = Coding-practice/HackerRank
+    url = https://github.com/ArtemDmytriv/HackerRank_AD
+    branch = master
