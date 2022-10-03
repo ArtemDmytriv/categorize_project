@@ -13,3 +13,28 @@
     url = https://github.com/ArtemDmytriv/HackerRank_AD
     branch = master
     update = merge
+[submodule "Learning-LP-NU/Bank-CourseWork-Qt"]
+	path = Learning-LP-NU/Bank-CourseWork-Qt
+	url = https://github.com/ArtemDmytriv/CourseWorkQt
+    branch = master
+    upadte = merge
+[submodule "Learning-LP-NU/LP-6sem-PDC-lab2"]
+	path = Learning-LP-NU/LP-6sem-PDC-lab2
+	url = https://github.com/ArtemDmytriv/LP-6sem-PDC-lab2
+    branch = master
+    upadte = merge
+[submodule "Learning-LP-NU/LP-6sem-PDC-Rozr"]
+	path = Learning-LP-NU/LP-6sem-PDC-Rozr
+	url = https://github.com/ArtemDmytriv/LP-6sem-PDC-Rozr
+    branch = master
+    upadte = merge
+[submodule "Learning-LP-NU/srcacmhw12"]
+	path = Learning-LP-NU/srcacmhw12
+	url = https://github.com/ArtemDmytriv/srcacmhw12
+    branch = master
+    upadte = merge
+[submodule "Learning-LP-NU/srcacmhw13"]
+	path = Learning-LP-NU/srcacmhw13
+	url = https://github.com/ArtemDmytriv/srcacmhw13
+    branch = master
+    upadte = merge
