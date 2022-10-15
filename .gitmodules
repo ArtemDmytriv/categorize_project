@@ -48,3 +48,9 @@
     url = https://github.com/ArtemDmytriv/GL_BaseCamp
     branch = master
     update = merge
+[submodule "Coding-practice/Book-Solutions"]
+    path = Coding-practice/Book-Solutions
+    url = https://github.com/ArtemDmytriv/Book_Solutions_AD
+    branch = master
+    update = merge
+
