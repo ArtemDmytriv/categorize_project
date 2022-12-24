@@ -54,3 +54,8 @@
     branch = master
     update = merge
 
+[submodule "Coding-practice/Pet-Projects"]
+    path = Coding-practice/Pet-Projects
+    url = https://github.com/ArtemDmytriv/Pet-AD-Projects
+    branch = main
+    branch = merge
